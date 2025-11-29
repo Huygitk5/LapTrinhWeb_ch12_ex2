@@ -1,0 +1,7 @@
+com\mycompany\ch12_ex2_useradmin\resources\JakartaEE11Resource.class
+murach\email\EmailListServlet.class
+murach\data\DBUtil.class
+com\mycompany\ch12_ex2_useradmin\JakartaRestConfiguration.class
+murach\business\User.class
+murach\data\UserDB.class
+murach\data\ConnectionPool.class
